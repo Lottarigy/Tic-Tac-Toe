@@ -8,7 +8,7 @@ fn Main : Int32 -> Int32 =>
 
 FUNCTIONS
 
-```ocaml
+```elixir
 fn Main : Int32 -> Int32 =>
     
     let A -> Set = {2,3}
