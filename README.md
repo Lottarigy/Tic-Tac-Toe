@@ -1,4 +1,4 @@
-#HELLO WORLD
+HELLO WORLD
 
 ```haskell
 fn Main : Int32 -> Int32 =>
@@ -6,7 +6,7 @@ fn Main : Int32 -> Int32 =>
     return 0
 ```
 
-#FUNCTIONS
+FUNCTIONS
 
 ```haskell
 fn Main : Int32 -> Int32 =>
