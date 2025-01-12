@@ -2,7 +2,11 @@ HELLO WORLD
 
 ```haskell
 fn Main : Int32 -> Int32 =>
-    >>Output : "Hello World\n"
+    >>Output : "Hello World!\n"
+    return 0
+
+: Stream() -> num =>
+    >>Output("Hello World!")
     return 0
 ```
 
